@@ -1,0 +1,14 @@
+site_name: Timon Eiselt
+repo_url: https://github.com/gyarab/2023_wa_sa_eiselt_mkdocs
+
+nav:
+  - Úvod: 'index.md'
+  - Maturita Dějepis: 'maturita.md'
+  - Hodina WA: 'wa.md'
+
+theme:
+    name: simple-blog
+
+extra_css:
+  - style.css
+
